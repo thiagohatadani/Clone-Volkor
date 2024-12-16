@@ -126,16 +126,16 @@ const Navbar = () => {
                 </summary>
                 <ul className="bg-base-100 list-none cursor-pointer p-2">
                   <li className="py-1 text-center">
-                    <a className="text-black border-b-2 border-transparent hover:border-black hover:scale-x-100 transition-all duration-3003 ease-out">Home</a>
+                    <a className="text-black border-b-2 border-transparent hover:border-black hover:scale-x-100 transition-all duration-300 ease-out">Home</a>
                   </li>
                   <li className="py-1 text-center">
-                    <a className="text-black border-b-2 border-transparent hover:border-black hover:scale-x-100 transition-all duration-3003 ease-out">About</a>
+                    <a className="text-black border-b-2 border-transparent hover:border-black hover:scale-x-100 transition-all duration-300 ease-out">About</a>
                   </li>
                   <li className="py-1 text-center">
-                    <a className="text-black border-b-2 border-transparent hover:border-black hover:scale-x-100 transition-all duration-3003 ease-out">Shop</a>
+                    <a className="text-black border-b-2 border-transparent hover:border-black hover:scale-x-100 transition-all duration-300 ease-out">Shop</a>
                   </li>
                   <li className="py-1 text-center ">
-                    <a className="text-black border-b-2 border-transparent hover:border-black hover:scale-x-100 transition-all duration-3003 ease-out">Contact</a>
+                    <a className="text-black border-b-2 border-transparent hover:border-black hover:scale-x-100 transition-all duration-300 ease-out">Contact</a>
                   </li>
                 </ul>
               </details>
