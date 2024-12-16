@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-horizontal > li:not(.menu-title) > details > ul {
+    margin-inline-start: 0px;
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-inline-end: 0.5rem;
+
+}
