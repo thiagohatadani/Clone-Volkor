@@ -21,7 +21,7 @@ const CategoriesShowcase = () => {
             <div className="absolute bottom-0 left-0 w-full flex p-4 z-20 text-white">
               <div>
                 <h3 className="text-lg font-bold">Título do Card</h3>
-                <p className="text-sm transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
+                <p className=" transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
                   Descrição curta do card.
                 </p>
               </div>
@@ -40,7 +40,7 @@ const CategoriesShowcase = () => {
             <div className="absolute bottom-0 left-0 w-full flex p-4 z-20 text-white">
               <div>
                 <h3 className="text-lg font-bold">Título do Card</h3>
-                <p className="text-sm transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
+                <p className=" transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
                   Descrição curta do card.
                 </p>
               </div>
@@ -59,7 +59,7 @@ const CategoriesShowcase = () => {
             <div className="absolute bottom-0 left-0 w-full flex p-4 z-20 text-white">
               <div>
                 <h3 className="text-lg font-bold">Título do Card</h3>
-                <p className="text-sm transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
+                <p className=" transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
                   Descrição curta do card.
                 </p>
               </div>
@@ -69,7 +69,7 @@ const CategoriesShowcase = () => {
       </div>
 
       {/* Grid 2*/}
-      <div className="grid gap-4 px-20 md:px-36 xl:px-60 grid-cols-1 md:grid-cols-2 md:auto-rows-min lg:grid-cols-2 lg:grid-rows-2">
+      <div className="grid gap-4 pb-10 px-20 md:px-36 xl:px-60 grid-cols-1 md:grid-cols-2 md:auto-rows-min lg:grid-cols-2 lg:grid-rows-2 lg:max-h-[48rem]">
         {/* Card 4*/}
         <div className="lg:max-h-[40rem] relative aspect-square md:aspect-[16/9] lg:aspect-auto shadow-lg overflow-hidden rounded-md group md:col-span-2 group md:row-span-2 lg:col-span-1 lg:row-span-2">
           <a href="#">
@@ -81,7 +81,7 @@ const CategoriesShowcase = () => {
             <div className="absolute bottom-0 left-0 w-full flex p-4 z-20 text-white">
               <div>
                 <h3 className="text-lg font-bold">Título do Card</h3>
-                <p className="text-sm transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
+                <p className=" transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
                   Descrição curta do card.
                 </p>
               </div>
@@ -100,7 +100,7 @@ const CategoriesShowcase = () => {
             <div className="absolute bottom-0 left-0 w-full flex p-4 z-20 text-white">
               <div>
                 <h3 className="text-lg font-bold">Título do Card</h3>
-                <p className="text-sm transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
+                <p className=" transition-all duration-300 border-b-2 border-transparent group-hover:border-white group-hover:ease-in-out group-hover:duration-500">
                   Descrição curta do card.
                 </p>
               </div>

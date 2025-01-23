@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-
 import slide1 from '../images/Space_background4.png'
 import slide2 from '../images/Space_background3.png'
 import slide3 from '../images/Space_background2-scaled.jpg'

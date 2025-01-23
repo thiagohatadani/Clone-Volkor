@@ -2,6 +2,7 @@ import React from "react";
 import Carousel from "./componentes/Carousel";
 import Navbar from "./componentes/Navbar";
 import CategoriesShowcase from "./componentes/CategoriesShowcase";
+import Slider from "./componentes/Slider";
 
 const App = () => {
   return (
@@ -9,28 +10,7 @@ const App = () => {
       <Navbar />
       <Carousel />
       <CategoriesShowcase />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      <Slider />
       <br />
       <br />
       <br />
