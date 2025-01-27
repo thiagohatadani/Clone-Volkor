@@ -3,6 +3,7 @@ import Carousel from "./componentes/Carousel";
 import Navbar from "./componentes/Navbar";
 import CategoriesShowcase from "./componentes/CategoriesShowcase";
 import Slider from "./componentes/Slider";
+import Galeria from "./componentes/Galeria";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Carousel />
       <CategoriesShowcase />
       <Slider />
+      <Galeria />
       <br />
       <br />
       <br />
