@@ -3,6 +3,8 @@ import Carousel from "./componentes/Carousel";
 import Navbar from "./componentes/Navbar";
 import CategoriesShowcase from "./componentes/CategoriesShowcase";
 import Slider from "./componentes/Slider";
+import Galeria from "./componentes/Galeria";
+import Footer from "./componentes/Footer";
 
 const App = () => {
   return (
@@ -11,22 +13,8 @@ const App = () => {
       <Carousel />
       <CategoriesShowcase />
       <Slider />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      <Galeria />
+      <Footer/>
     </html>
   );
 };
