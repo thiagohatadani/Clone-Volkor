@@ -3,12 +3,9 @@ import { useState, useEffect } from "react";
 import homeIcon from "../images/volkorx-dark.svg";
 import { FaMagnifyingGlass } from "react-icons/fa6";
 import { IoPersonOutline } from "react-icons/io5";
-import { BsBag } from "react-icons/bs";
-import { FaTwitter } from "react-icons/fa";
-import { FaFacebookF } from "react-icons/fa";
-import { FaYoutube } from "react-icons/fa";
-import { FaInstagram } from "react-icons/fa";
-import { FaSpotify } from "react-icons/fa";
+import { BsBag} from "react-icons/bs";
+import { FaTwitter, FaFacebookF, FaYoutube, FaInstagram, FaSpotify  } from "react-icons/fa";
+
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);

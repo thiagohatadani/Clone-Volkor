@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from "react";
-import slide1 from '../images/Space_background4.png'
-import slide2 from '../images/Space_background3.png'
-import slide3 from '../images/Space_background2-scaled.jpg'
-import slide4 from '../images/Space_background1-scaled.jpg'
+import slide1 from '../images/CaroueselImages/Space_background4.png'
+import slide2 from '../images/CaroueselImages/Space_background3.png'
+import slide3 from '../images/CaroueselImages/Space_background2-scaled.jpg'
+import slide4 from '../images/CaroueselImages/Space_background1-scaled.jpg'
+
 
 
 const images = [slide1, slide2, slide3, slide4];

@@ -4,6 +4,7 @@ import Navbar from "./componentes/Navbar";
 import CategoriesShowcase from "./componentes/CategoriesShowcase";
 import Slider from "./componentes/Slider";
 import Galeria from "./componentes/Galeria";
+import Footer from "./componentes/Footer";
 
 const App = () => {
   return (
@@ -13,22 +14,7 @@ const App = () => {
       <CategoriesShowcase />
       <Slider />
       <Galeria />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      <Footer/>
     </html>
   );
 };

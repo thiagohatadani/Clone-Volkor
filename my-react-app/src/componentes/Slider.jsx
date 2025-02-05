@@ -183,7 +183,7 @@ const Slider = () => {
         </div>
       </div>
       {/* Container do Carousel */}
-      <div className="relative overflow-visible z-10 mb-10">
+      <div className="relative overflow-hidden z-10 mb-10">
         <div
           className="flex transition-transform duration-500"
           style={{
